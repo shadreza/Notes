@@ -2,7 +2,7 @@
 
 **All the following stuff are preserved for personal use as the key things are very crucial**
 
--   [Tailwind CSS](#tailwind-css)
+-   [Tailwind CSS](#tailwind-css) 🟣
 
 ---
 
@@ -70,6 +70,5 @@
 [url](https://www.tailwindtoolbox.com/)
 
 **use-case :** UI component library
-
 
 ---
