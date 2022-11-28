@@ -3,6 +3,7 @@
 **All the following stuff are preserved for personal use as the key things are very crucial**
 
 -   [Tailwind CSS](#tailwind-css) 🟣
+-   [React Fundamentals](#react-fundamentals) 🔵
 
 ---
 
@@ -72,3 +73,60 @@
 **use-case :** UI component library
 
 ---
+
+---
+
+## 👉 React Fundamentals 🔵
+
+**Topics**
+
+-   [Conditional Rendering vs Ternary Op.](#conditional-rendering-vs-ternary-op)
+
+---
+
+#### 🔵 Conditional Rendering vs Ternary Op
+
+**Issue :**
+
+-   Conditional Rendering only works on boolean values
+-   If the passed props is not boolean then JS may see it otherwise
+
+<br/>
+
+🔴
+
+    render() {
+        let isLoggedIn = true; // will work fine
+
+        // let isLoggedIn -> 0 or hello etc
+        // will not work
+
+        return (
+        <div className="App">
+            <h1>
+            This is a Demo showing several ways to implement Conditional Rendering in React.
+            </h1>
+            {isLoggedIn && <button>Logout</button>}
+        </div>
+        );
+    }
+
+**Solution :** use ternary operator
+
+🟢
+
+    render() {
+        let isLoggedIn = true; // will work fine
+
+        // let isLoggedIn -> 0 or hello etc
+        // will work
+
+        return (
+        <div className="App">
+            <h1>
+            This is a Demo showing several ways to implement Conditional Rendering in React.
+            </h1>
+            {isLoggedIn ? <button>Logout</button> : <button>Login</button>}
+        </div>
+        );
+    }
