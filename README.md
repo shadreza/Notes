@@ -1,26 +1,28 @@
-# Notes of a lifetime
+# Notes of a lifetime ☝️ 🕋
 
 **All the following stuff are preserved for personal use as the key things are very crucial**
 
-## Tailwind CSS
+-   [Tailwind CSS](#tailwind-css)
 
 ---
+
+## 👉 Tailwind CSS 🟣
 
 **Extensions / Plugins**
 
--   [Twin.macro](#Twin.macro)
--   [Headwind](#Headwind)
--   [Tailwind Docs](#Tailwind-Docs)
--   [TailwindCSS Debug Screens](#TailwindCSS-Debug-Screens)
+-   [Twin.macro](#twin.macro)
+-   [Headwind](#headwind)
+-   [Tailwind Docs](#tailwind-docs)
+-   [TailwindCSS Debug Screens](#tailwindcss-debug-screens)
 
 **UI library**
 
--   [TailBlocks](#TailBlocks)
--   [Tailwind Toolbox](#Tailwind-Toolbox)
+-   [TailBlocks](#tailblocks)
+-   [Tailwind Toolbox](#tailwind-toolbox)
 
 ---
 
-#### Twin.macro
+#### 🟣Twin.macro
 
 [url](https://github.com/ben-rogerson/twin.macro) | [extension](https://marketplace.visualstudio.com/items?itemName=lightyen.tailwindcss-intellisense-twin)
 
@@ -31,7 +33,7 @@
 
 ---
 
-#### Headwind
+#### 🟣Headwind
 
 [extension](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
 
@@ -39,7 +41,7 @@
 
 ---
 
-#### Tailwind Docs
+#### 🟣Tailwind Docs
 
 [extension](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
 
@@ -47,7 +49,7 @@
 
 ---
 
-#### TailwindCSS Debug Screens
+#### 🟣TailwindCSS Debug Screens
 
 [url](https://github.com/jorenvanhee/tailwindcss-debug-screens)
 
@@ -55,7 +57,7 @@
 
 ---
 
-#### TailBlocks
+#### 🟣TailBlocks
 
 [url](https://tailblocks.cc/)
 
@@ -63,10 +65,11 @@
 
 ---
 
-#### Tailwind Toolbox
+#### 🟣Tailwind Toolbox
 
 [url](https://www.tailwindtoolbox.com/)
 
 **use-case :** UI component library
+
 
 ---
